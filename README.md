@@ -1,6 +1,6 @@
 # login_anime_do
 
-A new Flutter project.
+Es una pantalla de login, donde encontré un bug en el paquete animate_do v 3.0.1 sucede cuando aparece el teclado en pantalla la animación se restaura, esto no me pasa con la versión 2.1.0 
 
 ## Getting Started
 
